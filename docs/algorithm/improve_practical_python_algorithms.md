@@ -33,10 +33,13 @@
 ## Chapter 1
 
 - 条件式の書き方はだいたい他と同じ
-- lambdaは覚える
-- sliceとかが便利
+- Pythonでの無名関数(lambda)は覚える
 - pytestとdoctestの使い方
+- if __name__ == '__main__'とは？
+  - ライブラリとして使う場合にこの条件文は実行されない
 
 ## Chapter 2
+- 素数について
+
 
 - いまここ
