@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "KANSUJI",
+    "ROMAJI",
+    "ROMASUJI",
+    "uesugi"
+  ]
+}
